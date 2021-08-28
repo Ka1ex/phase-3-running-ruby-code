@@ -256,7 +256,7 @@ the program
   outputs the string "Pass this test, please." using the print method (FAILED - 2)
   outputs the array [1, 2, 3] using the p method (FAILED - 3)
 
-Failures:
+FailurHello Woes:
 
   1) the program outputs the string "Hello World!" using the puts method
      Failure/Error: expect { load 'app.rb' }.to output(a_string_including("Hello World!\n")).to_stdout
